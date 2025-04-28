@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditCustomProperties">
+      <i c="1" l="1745847292057" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1745847287301" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1745847387904" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1745847452869" />
+    </e>
+  </component>
+</application>
