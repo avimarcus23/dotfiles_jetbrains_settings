@@ -9,6 +9,12 @@
     <e n="EditorCopy">
       <i c="1" l="1745847697840" />
     </e>
+    <e n="EditorCut">
+      <i c="1" l="1745847932306" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1745847930963" />
+    </e>
     <e n="InvalidateCaches">
       <i c="1" l="1745847387904" />
     </e>
@@ -16,7 +22,7 @@
       <i c="1" l="1745847729749" />
     </e>
     <e n="SaveAll">
-      <i c="5" l="1745847877972" />
+      <i c="7" l="1745847934390" />
     </e>
   </component>
 </application>
