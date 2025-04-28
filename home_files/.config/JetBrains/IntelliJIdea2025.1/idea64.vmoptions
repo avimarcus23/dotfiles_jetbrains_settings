@@ -1,3 +1,1 @@
-# custom IntelliJ IDEA VM options (expand/override 'bin/idea64.vmoptions')
 -Xmx8192m
-

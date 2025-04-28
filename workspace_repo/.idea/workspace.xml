@@ -64,7 +64,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.56627154" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -95,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745831014960</updated>
       <workItem from="1745831017158" duration="89000" />
-      <workItem from="1745847249115" duration="686000" />
+      <workItem from="1745847249115" duration="813000" />
     </task>
     <servers />
   </component>

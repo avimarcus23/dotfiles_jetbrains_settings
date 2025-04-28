@@ -1,0 +1,31 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditCustomProperties">
+      <i c="2" l="1745847506107" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="7" l="1745848058700" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2" l="1745848060958" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1745847697840" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1745848008093" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="2" l="1745848007354" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1745847387904" />
+    </e>
+    <e n="QuickImplementations">
+      <i c="1" l="1745847729749" />
+    </e>
+    <e n="SaveAll">
+      <i c="9" l="1745848061511" />
+    </e>
+  </component>
+</application>
